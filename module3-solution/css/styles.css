@@ -137,4 +137,6 @@ hr {
 .item {
   color: white;
   font-size: 1.2em;
-}*/
+}
+#nav-list a:hover {
+  background: black;
